@@ -1,3 +1,5 @@
 en:
   button:
     create: Create
+  test:
+    key: Key test
